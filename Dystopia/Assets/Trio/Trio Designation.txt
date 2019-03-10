@@ -1,0 +1,12 @@
+In a factory many kinds of creature are moving in conveyor belt one by one.
+Player is an alien worker in this factory.
+Player has to sort creatures into a few groups such as Useful Creatures, Useless Creatures, and Unidentified Creatures.
+There are 3 different ways which player identifies creatures with.
+When a creature comes infront of player, conveyor belt stops and player choose the way zhe identifies the creature.
+Player can choose one of 3 ways or two of'em or all.
+Through this identification player concludes where zhe put it.
+First way of identification is conversation.
+Because this factory has much developed scientific language technologies, player can talk with almost every creatures.
+When player talks with a creature, zhe normally selects an text among 3 texts.
+And then according to the creatures's answer, 3 texts that will come out change.
+Second one is fight.
